@@ -1,0 +1,50 @@
+/* This is a CSS comment. Put your CSS styling below this line */
+header {
+  background-color: #E574BC;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  box-shadow: 15px 15px 0 #888;
+  font-size: 200%;
+  padding: 15px; 
+  margin-bottom: 30px;
+}
+
+div{
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-color: #C52184;
+  padding: 15px;
+}
+
+button{
+   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background-color: #C52184;
+}
+
+body{
+  background-color: #F9B4ED;
+  margin: 4em;
+  border: 2px double #F9B4ED;
+  padding: 15px;
+}
+
+h2 {
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #ffffff;
+  background-color: #334139;
+  padding: 10px;
+}
+
+h3 {
+  font-family: Verdana,Geneva,sans-serif;
+}
+
+h4{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+p{
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+
+
+/* #353535, #D2D7DF, #BDBBB0, #8A897C
